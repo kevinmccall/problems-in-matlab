@@ -12,9 +12,4 @@ while (sum(people) > 1)
     ind = mod(ind, N) + 1;
   endwhile
 endwhile
-
 endfunction
-
-
-
-
